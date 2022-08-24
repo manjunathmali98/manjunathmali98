@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manjunathmali98
 - 👀 I’m interested in Software Development, Web Development, REST API
-- 🌱 I’m currently learning SpringBoot, Cloud
+- 🌱 I’m currently learning SpringBoot.
 - 📫 reach me at <a href="https://www.linkedin.com/in/manjunath-mali/">LinkedIn </a>
 
 <!---
